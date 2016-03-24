@@ -1,0 +1,12 @@
+#reg{
+    display: none;
+}
+
+#log{
+    display: none;
+}
+#content{
+    width: 100%;
+    background: yellowgreen;
+    min-height: 100px;
+}
